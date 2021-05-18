@@ -14,7 +14,6 @@ The Dogg DAO ratio of CAT is always 1 CAT = 100,000,000 DOGE. CAT is always full
 
 ## Deployments
 
-- UPDATE NEEDED BSC [`0xfe2e25952e6c8f5c6847e1249a5ff368235f6db5`](https://bscscan.com/token/0xfe2e25952e6c8f5c6847e1249a5ff368235f6db5)
+- BSC [`0x10e10AA51d3aa9D39D35391699238f58D92EB606`](https://bscscan.com/token/0x10e10AA51d3aa9D39D35391699238f58D92EB606)
 
-- UPDATE NEEDED Trade it on [Apeswap](https://info.apeswap.finance/pair/0x7f24df1a718af253105b6fce1287bf8839588524)
 
