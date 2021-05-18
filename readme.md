@@ -1,4 +1,4 @@
-# CAT (Dogg wrapped DOGE)
+# CAT (Dogg DAO wrapped DOGE)
 
 CAT is a fork of DOGSHIT from Dogg DAO which is a fork of Woofy from YFI.
 
